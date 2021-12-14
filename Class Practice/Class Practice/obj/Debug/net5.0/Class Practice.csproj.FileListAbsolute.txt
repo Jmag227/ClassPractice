@@ -1,0 +1,16 @@
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Classy Proj\Class Practice\Class Practice\bin\Debug\net5.0\Class Practice.exe
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Classy Proj\Class Practice\Class Practice\bin\Debug\net5.0\Class Practice.deps.json
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Classy Proj\Class Practice\Class Practice\bin\Debug\net5.0\Class Practice.runtimeconfig.json
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Classy Proj\Class Practice\Class Practice\bin\Debug\net5.0\Class Practice.runtimeconfig.dev.json
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Classy Proj\Class Practice\Class Practice\bin\Debug\net5.0\Class Practice.dll
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Classy Proj\Class Practice\Class Practice\bin\Debug\net5.0\ref\Class Practice.dll
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Classy Proj\Class Practice\Class Practice\bin\Debug\net5.0\Class Practice.pdb
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Classy Proj\Class Practice\Class Practice\obj\Debug\net5.0\Class Practice.csproj.AssemblyReference.cache
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Classy Proj\Class Practice\Class Practice\obj\Debug\net5.0\Class Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Classy Proj\Class Practice\Class Practice\obj\Debug\net5.0\Class Practice.AssemblyInfoInputs.cache
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Classy Proj\Class Practice\Class Practice\obj\Debug\net5.0\Class Practice.AssemblyInfo.cs
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Classy Proj\Class Practice\Class Practice\obj\Debug\net5.0\Class Practice.csproj.CoreCompileInputs.cache
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Classy Proj\Class Practice\Class Practice\obj\Debug\net5.0\Class Practice.dll
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Classy Proj\Class Practice\Class Practice\obj\Debug\net5.0\ref\Class Practice.dll
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Classy Proj\Class Practice\Class Practice\obj\Debug\net5.0\Class Practice.pdb
+C:\Users\jarom\OneDrive\Desktop\DeskRepo\Baby Projects\Classy Proj\Class Practice\Class Practice\obj\Debug\net5.0\Class Practice.genruntimeconfig.cache
