@@ -25,6 +25,7 @@ namespace CarLotSimulator
             car1.MakeEngineNoise();
             car1.MakeHonkNoise();
             lot.CarList.Add(car1);
+            
 
 
 
@@ -40,14 +41,14 @@ namespace CarLotSimulator
             car2.MakeEngineNoise();
             car2.MakeHonkNoise();
             lot.CarList.Add(car2);
-
+            
 
             var car3 = new Cars() { Make = "Trek", Model = "2000 Series", Year = 2015, EngineNoise = "Laborious breathing", HonkNoise = "Man yells at car...'&*#$%#@!'", IsDrivable = true};
             car3.PleasePrint();
             car3.MakeEngineNoise();
             car3.MakeHonkNoise();
             lot.CarList.Add(car3);
-
+            
 
             Console.WriteLine("Car Lot Inventory");
 
@@ -57,6 +58,7 @@ namespace CarLotSimulator
                 Console.WriteLine($"Make: {car.Year} Model: {car.Model} Year {car.Year}");
             }
 
+            Console.WriteLine($"Total number of cars:{CarLot.NumberOfCars}");
             //*************BONUS*************//
 
             // Set the properties utilizing the 3 different ways we learned about, one way for each car
